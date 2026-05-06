@@ -1,0 +1,25 @@
+{
+  "overview": "Modern, trendy brand website for Brand By Tech — a tech services company offering Software Development, Website Development, Video Editing, and Social Media Management. Features a sky blue color theme with glassmorphism effects, smooth animations, and a fully responsive multi-section layout.",
+  "features": [
+    "Sky blue gradient theme with glassmorphism effects",
+    "Hero section with bold headline and CTA",
+    "Services showcase with 4 service cards",
+    "Why Choose Us highlights",
+    "Portfolio with placeholder project cards",
+    "Testimonials with star ratings",
+    "Contact form with social media links",
+    "Fully responsive across mobile, tablet, and desktop",
+    "Smooth scroll animations and hover effects"
+  ],
+  "category": "showcase",
+  "tags": [
+    "brand",
+    "marketing",
+    "landing-page",
+    "sky-blue",
+    "glassmorphism",
+    "responsive",
+    "tech-services"
+  ],
+  "last_updated": "2026-05-06T14:42:19.934Z"
+}
